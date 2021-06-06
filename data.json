@@ -1,0 +1,202 @@
+{
+  "data": [
+    {
+      "ID": 1,
+      "Product_name": "Ear_phone",
+      "Category": "Electronics",
+      "Expiry_date": "None",
+      "Cost_price": 1500,
+      "Selling_price": 1800,
+      "Profit": 300
+    },
+    {
+      "ID": 2,
+      "Product_name": "Pepsi",
+      "Category": "Soft drinks",
+      "Expiry_date": "2021-06-30",
+      "Cost_price": 40,
+      "Selling_price": 45,
+      "Profit": 5
+    },
+    {
+      "Product_name": "Laptop",
+      "Category": "Electronics",
+      "Expiry_date": "2021-01-25",
+      "Cost_price": 50000,
+      "Selling_price": 65000,
+      "Profit": 15000,
+      "ID": 2
+    },
+    {
+      "Product_name": "Laptop",
+      "Category": "Electronics",
+      "Expiry_date": "2021-01-25",
+      "Cost_price": 50000,
+      "Selling_price": 65000,
+      "Profit": 15000,
+      "ID": 3
+    },
+    {
+      "Product_name": "Laptop",
+      "Category": "Electronics",
+      "Expiry_date": "2021-01-25",
+      "Cost_price": 50000,
+      "Selling_price": 65000,
+      "Profit": 15000,
+      "ID": 4
+    },
+    {
+      "Product_name": "Laptop",
+      "Category": "Electronics",
+      "Expiry_date": "2021-01-25",
+      "Cost_price": 50000,
+      "Selling_price": 65000,
+      "Profit": 15000,
+      "ID": 5
+    },
+    {
+      "Product_name": "Laptop",
+      "Category": "Electronics",
+      "Expiry_date": "2021-01-25",
+      "Cost_price": 50000,
+      "Selling_price": 65000,
+      "Profit": 15000,
+      "ID": 6
+    },
+    {
+      "Product_name": "Laptop",
+      "Category": "Electronics",
+      "Expiry_date": "2021-01-25",
+      "Cost_price": 50000,
+      "Selling_price": 65000,
+      "Profit": 15000,
+      "ID": 7
+    },
+    {
+      "Product_name": "Laptop",
+      "Category": "Electronics",
+      "Expiry_date": "2021-01-25",
+      "Cost_price": 50000,
+      "Selling_price": 65000,
+      "Profit": 15000,
+      "ID": 8
+    },
+    {
+      "Product_name": "Laptop",
+      "Category": "Electronics",
+      "Expiry_date": "2021-11-25",
+      "Cost_price": 20000,
+      "Selling_price": 25000,
+      "Profit": 5000,
+      "ID": 9
+    },
+    {
+      "Product_name": "Laptop",
+      "Category": "Electronics",
+      "Expiry_date": "2021-11-25",
+      "Cost_price": 20000,
+      "Selling_price": 25000,
+      "Profit": 5000,
+      "ID": 10
+    },
+    {
+      "Product_name": "Laptop",
+      "Category": "Electronics",
+      "Expiry_date": "2021-11-25",
+      "Cost_price": 20000,
+      "Selling_price": 25000,
+      "Profit": 5000,
+      "ID": 11
+    },
+    {
+      "Product_name": "Laptop",
+      "Category": "Electronics",
+      "Expiry_date": "2021-11-25",
+      "Cost_price": 20000,
+      "Selling_price": 25000,
+      "Profit": 5000,
+      "ID": 12
+    },
+    {
+      "Product_name": "Laptop",
+      "Category": "Electronics",
+      "Expiry_date": "2021-11-25",
+      "Cost_price": 20000,
+      "Selling_price": 25000,
+      "Profit": 5000,
+      "ID": 13
+    },
+    {
+      "Product_name": "Laptop",
+      "Category": "Electronics",
+      "Expiry_date": "2021-11-25",
+      "Cost_price": 20000,
+      "Selling_price": 25000,
+      "Profit": 5000,
+      "ID": 14
+    },
+    {
+      "Product_name": "Laptop",
+      "Category": "Electronics",
+      "Expiry_date": "2021-11-25",
+      "Cost_price": 20000,
+      "Selling_price": 25000,
+      "Profit": 5000,
+      "ID": 15
+    },
+    {
+      "Product_name": "Laptop",
+      "Category": "Electronics",
+      "Expiry_date": "2021-11-25",
+      "Cost_price": 20000,
+      "Selling_price": 25000,
+      "Profit": 5000,
+      "ID": 16
+    },
+    {
+      "Product_name": "Laptop",
+      "Category": "Electronics",
+      "Expiry_date": "2021-11-25",
+      "Cost_price": 20000,
+      "Selling_price": 25000,
+      "Profit": 5000,
+      "ID": 17
+    },
+    {
+      "Product_name": "Laptop",
+      "Category": "Electronics",
+      "Expiry_date": "2021-11-25",
+      "Cost_price": 20000,
+      "Selling_price": 25000,
+      "Profit": 5000,
+      "ID": 18
+    },
+    {
+      "Product_name": "Laptop",
+      "Category": "Electronics",
+      "Expiry_date": "2021-11-25",
+      "Cost_price": 20000,
+      "Selling_price": 25000,
+      "Profit": 5000,
+      "ID": 19
+    },
+    {
+      "Product_name": "Laptop",
+      "Category": "Electronics",
+      "Expiry_date": "2021-11-25",
+      "Cost_price": 20000,
+      "Selling_price": 25000,
+      "Profit": 5000,
+      "ID": 20
+    },
+    {
+      "Product_name": "Laptop",
+      "Category": "Electronics",
+      "Expiry_date": "2021-11-25",
+      "Cost_price": 20000,
+      "Selling_price": 25000,
+      "Profit": 5000,
+      "ID": 21
+    }
+  ]
+}
